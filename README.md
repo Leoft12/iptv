@@ -1,1 +1,174 @@
-# iptv
+#EXTM3U
+ 
+ 
+#EXTINF:-1,LAS ESTRELLAS HD
+http://streamsy.online:2999/live/happy2024/newyear/3.m3u8
+#EXTINF:-1,CANAL 5 HD 
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092598
+#EXTINF:-1,AZTECA 7 HD
+http://streamsy.online:2999/live/happy2024/newyear/6.m3u8
+#EXTINF:-1,AZTECA 7
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092601
+#EXTINF:-1,AZTECA UNO HD
+http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/9599
+#EXTINF:-1,Imagen tv
+http://streamsy.online:2999/live/happy2024/newyear/1695.m3u8
+#EXTINF:-1,NUEVE
+http://goldfull.pro:8880/eobsvevwimyv/Kqejx8pnzdnu/419090
+#EXTINF:-1,Az cinema
+ http://streamsy.online:2999/happy2024/newyear/72
+ #EXTINF:-1,FOX CHANNEL HD
+http://streamsy.online:2999/happy2024/newyear/15
+#EXTINF:-1,DISTRITO COMEDIA 
+http://streamsy.online:2999/live/happy2024/newyear/38.m3u8
+#EXTINF:-1, GALAVISIÓN 
+http://streamsy.online:2999/live/happy2024/newyear/360.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://streamsy.online:2999/live/happy2024/newyear/23.m3u8
+#EXTINF:-1,BITME
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092599
+ #EXTINF:-1,NICKELODEON HD
+ http://streamsy.online:2999/live/happy2024/newyear/48.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://streamsy.online:2999/live/happy2024/newyear/44.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://streamsy.online:2999/happy2024/newyear/46
+ #EXTINF:-1,DISCOVERY KIDS HD
+ http://streamsy.online:2999/live/happy2024/newyear/43.m3u8
+#EXTINF:-1, DREAMWORKS 
+http://tvlatino.club:2082/12397FDeaLp/vHdSRyFzYTqD/513230
+#EXTINF:-1,CARTOON NETWORK HD
+ http://streamsy.online:2999/happy2024/newyear/50
+ #EXTINF:-1,TOONCAST 
+http://streamsy.online:2999/happy2024/newyear/55
+#EXTINF:-1,Boomerang HD
+ http://streamsy.online:2999/happy2024/newyear/52
+#EXTINF:-1,Cine Canal HD
+http://streamsy.online:2999/live/happy2024/newyear/73.m3u8
+#EXTINF:-1,Cinemax HD
+ http://streamsy.online:2999/live/happy2024/newyear/82.m3u8
+#EXTINF:-1,TNT HD
+ http://streamsy.online:2999/happy2024/newyear/74
+#EXTINF:-1,Paramount Channel HD
+  http://streamsy.online:2999/happy2024/newyear/1166
+#EXTINF:-1,Sony HD
+ http://streamsy.online:2999/live/happy2024/newyear/16.m3u8
+ #EXTINF:-1,Space HD
+ http://streamsy.online:2999/happy2024/newyear/79
+ #EXTINF:-1,Warner Channel HD
+ http://streamsy.online:2999/happy2024/newyear/17
+ #EXTINF:-1,FX HD
+  http://streamsy.online:2999/live/happy2024/newyear/19.m3u8
+ ‎#EXTINF:-1,De pelicula
+http://streamsy.online:2999/live/happy2024/newyear/85.m3u8
+#EXTINF:-1,De pelicula plus 
+http://streamsy.online:2999/live/happy2024/newyear/1699.m3u8
+#EXTINF:-1,Studio Universal HD http://streamsy.online:2999/live/happy2024/newyear/86.m3u8
+#EXTINF:-1,Golden
+http://streamsy.online:2999/live/happy2024/newyear/1624.m3u8
+#EXTINF:-1,Golden edge 
+http://streamsy.online:2999/live/happy2024/newyear/84.m3u8
+ #EXTINF:-1,GOLDEN PLUS
+ http://streamsy.online:2999/happy2024/newyear/75
+ #EXTINF:-1,GOLDEN PREMIER
+ http://streamsy.online:2999/happy2024/newyear/83
+#EXTINF:-1,MULTIPREMIER 
+http://nxt.plus:8080/live/samuraix/tth9pE3VkWA2/189605.ts
+#EXTINF:-1,MULTICINEMA 
+http://181.78.105.146:6060/play/a05q/index.m3u8
+#EXTINF:-1,CINE LATINO 
+http://181.78.105.146:8800/play/a06x
+#EXTINF:-1,Universal tv HD
+ http://streamsy.online:2999/happy2024/newyear/18
+#EXTINF:-1,HBO
+http://streamsy.online:2999ive/happy2024/newyear/120.m3u8
+ #EXTINF:-1 ,HBO 2 
+ http://lite.globaldomain.xyz:8080/olgalmon/BaF3AEK3Zg/9671
+ #EXTINF:-1,HBO Family 
+http://nxt.plus:8080/live/samuraix/tth9pE3VkWA2/43537.ts
+ ‎#EXTINF:-1,A&E
+http://streamsy.online:2999/live/happy2024/newyear/20.m3u8
+#EXTINF:-1 ,AXN HD
+http://streamsy.online:2999/live/happy2024/newyear/21.m3u8
+#EXTINF:-1,AMC HD
+  http://streamsy.online:2999/happy2024/newyear/78
+ #EXTINF:-1,Unicable 
+http://streamsy.online:2999/happy2024/newyear/24
+#EXTINF:-1,tlnovelas
+http://streamsy.online:2999/PRPLUS/vevnife7/40
+#EXTINF:-1,PasionesHD
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/263522.ts
+#EXTINF:-1,Telemundo
+ http://streamsy.online:2999/happy2024/newyear/54
+#EXTINF:-1,MTV HD 
+  http://streamsy.online:2999/happy2024/newyear/620
+#EXTINF:-1,MTV Hits 
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/360.ts  
+#EXTINF:-1,Video rola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1,bandamax
+http://streamsy.online:2999/happy2024/newyear/1634
+#EXTINF:-1,animal planet HD
+ http://streamsy.online:2999/happy2024/newyear/61
+#EXTINF:-1,Nat geo wild
+http://streamsy.online:2999/happy2024/newyear/63
+#EXTINF:-1,History HD
+http://streamsy.online:2999/happy2024/newyear/57
+#EXTINF:-1,History 2 HD
+http://streamsy.online:2999/happy2024/newyear/289
+#EXTINF:-1,Discovery channel
+http://streamsy.online:2999/happy2024/newyear/60
+#EXTINF:-1,Gourmet 
+http://streamsy.online:2999/happy2024/newyear/34
+ #EXTINF:-1,FOX SPORTS 3 HD
+ http://streamsy.online:2999/happy2024/newyear/100
+ #EXTINF:-1,Fox sports 2 
+  http://streamsy.online:2999/happy2024/newyear/93
+#EXTINF:-1,FOX SPORTS HD
+http://streamsy.online:2999/happy2024/newyear/92
+ #EXTINF:-1,Espn HD 
+http://streamsy.online:2999/live/happy2024/newyear/97.m3u8
+#EXTINF:-1,Espn 2 HD
+ http://streamsy.online:2999/happy2024/newyear/1456
+ #EXTINF:-1,Espn 3 HD
+http://streamsy.online:2999/happy2024/newyear/91
+#EXTINF:-1,TUDN
+http://streamsy.online:2999/live/happy2024/newyear/1488.m3u8
+#EXTINF:-1,TUDN USA
+http://streamsy.online:2999/live/happy2024/newyear/1487.m3u8
+#EXTINF:-1,Claro sports
+  http://streamsy.online:2999/happy2024/newyear/1700
+#EXTINF:-1,Dumbo
+ http://xcm.budtv-ultra.com:25461/movie/bud-3463763/8a60865d56/174644.mkv
+#EXTINF:-1, Armaggedón 
+http://vod.tuxchannel.mx:80/peliculas/720/armageddon.mkv
+#EXTINF:-1,LA MASCARA 
+http://live.budtvlight.com:25461/live/bud-2007880/1c8fb3cdb7/282150.ts
+#EXTINF:-1, presagió 
+http://nxt.plus:8080/movie/samuraix/tth9pE3VkWA2/232402.mkv
+#EXTINF:-1, J
+http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
+#EXTINF:-1,NJ
+http://nxt.plus:8080/live/samuraix/tth9pE3VkWA2/59603.ts
+#EXTINF:-1,CAMINO HACIA EL TERROR 4
+http://nxt.plus:8080/movie/samuraix/tth9pE3VkWA2/217083.mkv
+#EXTINF:-1, APOCALYPTO 
+http://vod.tuxchannel.mx:80/peliculas/720/apocalypto.mkv
+#EXTINF:-1,ANGRY BIRDS
+http://vod.tuxchannel.mx:80/peliculas/720/the%20angry%20birds%20movie.mkv
+#EXTINF:-1,COMO SER UN LATIN LOVER
+http://vod.tuxchannel.mx:80/peliculas/720/how%20to%20be%20a%20latin%20lover.mkv
+#EXTINF:-1, JUEGO DE GEMELAS 
+http://vod.tuxchannel.mx:80/peliculas/720/the%20parent%20trap.mkv
+#EXTINF:-1, MADAGASCAR 
+http://vod.tuxchannel.mx:80/peliculas/720/madagascar.mkv
+#EXTINF:-1, SANGRÉ POR SANGRE
+http://vod.tuxchannel.mx:80/peliculas/720/bound%20by%20honor%201993.mkv
+#EXTINF:-1,SCOOBY DOOH
+http://vod.tuxchannel.mx:80/peliculas/720/scooby%20doo.mkv
+#EXTINF:-1,COCO
+http://lite.globaldomain.xyz:8080/movie/olgalmon/BaF3AEK3Zg/1919.mkv
+#EXTINF:-1,ANGRY BIRDS 2
+http://streamsy.online:2999/happy2024/newyear/1699
+#EXTINF:-1,LA ERA DE HIELO
+http://goldfull.pro:8880/movie/eobsvevwimyv/Kqejx8pnzdnu/266298.mkv
